@@ -1,4 +1,5 @@
 # Digits for Android
+Digits is a phone number based authentication API for android, so users won't have any passwords to remember.
 
 Using Digits from source in production applications is not officially supported by Fabric.
 Please utilize the available binaries.
